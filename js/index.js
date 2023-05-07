@@ -4,16 +4,16 @@ function activaScroll(selector) {
         event.preventDefault();
         var page = document.querySelector('html');
         var origen = Math.max(page.scrollTop);
-        console.log(origen);
+        //console.log(origen);
         var destino = document.querySelector(this.attributes.href.value).offsetTop;
-        console.log(destino);
+        //console.log(destino);
         var counter = 0;
 
         var animation = setInterval(function() {
             counter++;
-            console.log(counter);
+            //console.log(counter);
             page.scrollTop = origen + (destino*counter*0.1);
-            console.log(origen + (destino*counter*0.1));
+            //console.log(origen + (destino*counter*0.1));
         },50);
 
         setTimeout(function() {
