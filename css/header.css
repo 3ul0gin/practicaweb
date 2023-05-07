@@ -1,5 +1,5 @@
 .header {
-    background: url(/conclusion/img/portada.jpg) no-repeat; /*no-repeat = para que la imagen no se repita*/
+    background: url(../img/portada.jpg) no-repeat; /*no-repeat = para que la imagen no se repita*/
     background-size: cover; /*le indicamos que la imagen ocupara el 100% del ancho de nuestra pagina*/
     padding-top: 32px;
     opacity: 0.85;
