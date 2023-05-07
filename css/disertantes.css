@@ -1,0 +1,53 @@
+.disertantes {
+    background-color: #EF7247;
+    padding-top: 40px;
+}
+
+.disertantes .speakers-about {
+    text-align: center;
+}
+
+.disertantes .title {
+    color: #ffffff;
+    font-size: 40px;
+    margin-bottom: 16px;
+}
+
+.disertantes .subtitle {
+    color: #ffffff;
+    font-size: 32px;
+    margin-bottom: 16px;
+}
+
+.disertantes .speakers {
+    text-align: center;
+}
+
+.disertantes .speakers .speaker {
+    background: #ffffff;
+    display: inline-block;
+    margin: 0 10px 24px 0;
+    padding: 18px;
+    width: 250px;
+    vertical-align: top;
+    border-radius: 10px;
+}
+
+.disertantes .speakers .speaker .speaker-protait img{
+    border-radius: 50%;
+}
+
+.disertantes .speakers .speaker .speaker-protait .speaker-name {
+    margin-top: 10px;
+}
+
+.disertantes .speakers .speaker .speaker-protait .speaker-bio {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.disertantes .speakers .speaker .speaker-speach {
+   
+    margin-top: 10px;
+}
+

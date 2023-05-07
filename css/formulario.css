@@ -1,0 +1,32 @@
+.panel-form {
+    margin-top: 32px;
+    margin-bottom: 30px;
+}
+
+.panel-form .titulo {
+    font-size: 30px;
+    color: #EF7247;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.panel-form .field .field-label{
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.panel-form .field .field-input{
+    display: inline-block;
+    margin-bottom: 15px;
+    width: 100%;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 6px;
+    box-shadow: 1px 1px 10px #48A3A6;
+}
+
+.panel-form .btn-place {
+    text-align: center;
+}

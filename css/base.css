@@ -1,0 +1,14 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.btn-registro {
+    color: #ffffff;
+    display: inline-block;
+    font-size: 18px;
+    background-color: #48A3A6;
+    text-decoration: none;
+    padding: 20px 30px;
+    border-radius: 8px;
+}
